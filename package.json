@@ -1,0 +1,30 @@
+{
+  "name": "apidoc-markdown",
+  "version": "1.0.0",
+  "description": "Generate API documentation in markdown from apiDoc data.",
+  "main": "index.js",
+  "bin": {
+    "apidoc-markdown": "./bin/apidocMarkdown.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "apidoc",
+    "markdown",
+    "api-documentation",
+    "generator"
+  ],
+  "author": "Mathieu Andrade",
+  "license": "MIT",
+  "dependencies": {
+    "apidoc-core": "^0.11.0",
+    "commander": "^2.20.0",
+    "ejs": "^3.0.1",
+    "fs-extra": "^8.1.0",
+    "lodash": "^4.17.15",
+    "markdown-it": "^10.0.0",
+    "semver": "^6.3.0",
+    "winston": "^3.2.1"
+  }
+}
