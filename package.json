@@ -1,5 +1,5 @@
 {
-  "name": "apidoc-markdown",
+  "name": "@mathieu_andrade/apidoc-markdown",
   "version": "1.0.0",
   "description": "Generate API documentation in markdown from apiDoc data.",
   "main": "index.js",
@@ -26,5 +26,17 @@
     "markdown-it": "^10.0.0",
     "semver": "^6.3.0",
     "winston": "^3.2.1"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathieuAndrade/apidoc-markdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MathieuAndrade/apidoc-markdown/issues"
+  },
+  "homepage": "https://github.com/MathieuAndrade/apidoc-markdown#readme"
 }

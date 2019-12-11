@@ -1,4 +1,5 @@
 # ApiDoc-markdown
+[![npm badge](https://img.shields.io/npm/v/@mathieu_andrade/apidoc-markdown.svg?logo=npm)](https://www.npmjs.com/package/@mathieu_andrade/apidoc-markdown)
 
 ApiDoc markdown creates a documentation from API descriptions in your source code.
 
@@ -11,7 +12,7 @@ Documentation: [apidocjs.com](http://apidocjs.com)
 ## Installation
 
 ```bash
-$ npm install -g apidoc-markdown
+$ npm install -g @mathieu_andrade/apidoc-markdown
 ```
 
 ## Usage
