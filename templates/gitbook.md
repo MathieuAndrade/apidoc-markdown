@@ -12,7 +12,7 @@ ___
 
 <% group.subs.forEach(sub => { -%>
 
-{% api-method method="<%- sub.type.toLowerCase() %>" host="" path=" <%= sub.url %>" %}{% api-method-summary %}<%- sub.name %>{% endapi-method-summary %}
+{% api-method method="<%- sub.type.toLowerCase() %>" host=" " path="<%= sub.url %>" %}{% api-method-summary %}<%- sub.name %>{% endapi-method-summary %}
 
 {% api-method-description %}
 <%- sub.description %>
