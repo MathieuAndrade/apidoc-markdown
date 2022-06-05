@@ -1,6 +1,6 @@
 {
   "name": "@mathieu_andrade/apidoc-markdown",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Generate API documentation in markdown from apiDoc data.",
   "main": "index.js",
   "bin": {
